@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Victoria, UBC Engineering Physics '22. 
+
+- 📫 Email: vschuster[at]alumni[dot]shawnigan[dot]ca
+
+
 <!--
 **vmschuster/vmschuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
